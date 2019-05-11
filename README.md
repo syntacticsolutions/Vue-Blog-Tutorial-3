@@ -6,10 +6,10 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
-0. ```
+```
 npm run serve
 ```
-0. navigate to ```localhost:8080/create_post```
+navigate to ```localhost:8080/create_post```
 
 ### Compiles and minifies for production
 ```
